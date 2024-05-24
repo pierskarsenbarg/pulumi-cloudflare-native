@@ -6,7 +6,6 @@ require (
 	github.com/pulumi/pulumi-go-provider v0.17.0
 	github.com/pulumi/pulumi/pkg/v3 v3.116.1
 	github.com/pulumi/pulumi/sdk/v3 v3.116.1
-    github.com/cloudflare/cloudflare-go v0.96.0
 )
 
 require (
@@ -72,7 +71,6 @@ require (
 	github.com/go-git/go-git/v5 v5.12.0 // indirect
 	github.com/go-logr/logr v1.4.1 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
-	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/gofrs/uuid v4.2.0+incompatible // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/golang-jwt/jwt/v5 v5.2.1 // indirect
