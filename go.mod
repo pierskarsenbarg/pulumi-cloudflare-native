@@ -3,9 +3,9 @@ module github.com/pierskarsenbarg/pulumi-cloudflare-native
 go 1.22.1
 
 require (
-	github.com/pulumi/pulumi-go-provider v0.17.0
-	github.com/pulumi/pulumi/pkg/v3 v3.117.0
-	github.com/pulumi/pulumi/sdk/v3 v3.117.0
+	github.com/pulumi/pulumi-go-provider v0.18.0
+	github.com/pulumi/pulumi/pkg/v3 v3.118.0
+	github.com/pulumi/pulumi/sdk/v3 v3.118.0
 )
 
 require (
